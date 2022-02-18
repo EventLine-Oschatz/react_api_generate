@@ -1,0 +1,5 @@
+/users/
+/user/:id
+/user/:email
+/user/:username
+/payments/

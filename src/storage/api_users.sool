@@ -1,0 +1,46 @@
+{
+  "fcf7c1b8749cf99d88e5f34271d636178fb5d130": {
+    "username": "Mathias Schröter",
+    "description": "Test-API-User",
+    "methods": {
+      "GET": [
+        "users",
+        "payments"
+      ],
+      "POST": [
+        "users",
+        "payments"
+      ],
+      "PUT": [
+        "users",
+        "payments"
+      ],
+      "DELETE": [
+        "users",
+        "payments"
+      ]
+    }
+  },
+  "jdsjfsfcf7c1b8749cf99d88e5f34271d636178fb5d130": {
+    "username": "Mathias Zweiter User",
+    "description": "Test-API-User",
+    "methods": {
+      "GET": [
+        "users",
+        "payments"
+      ],
+      "POST": [
+        "users",
+        "payments"
+      ],
+      "PUT": [
+        "users",
+        "payments"
+      ],
+      "DELETE": [
+        "users",
+        "payments"
+      ]
+    }
+  }
+}
